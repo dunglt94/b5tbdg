@@ -1,0 +1,47 @@
+table {
+    border: 0 solid black;
+    border-collapse: collapse;
+    width: 70%;
+}
+p {
+    font-weight: lighter;
+    margin: 5px;
+    color: blue;
+}
+th {
+    color: blue;
+}
+.maintable {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid white;
+    border-collapse: collapse;
+
+}
+td.classtime {
+    border: 0 solid white;
+    text-align: right;
+    vertical-align: top;
+    border-right: 20px solid white;
+}
+td.class {
+    border: 0 solid white;
+    border-left: 20px solid white;
+}
+td {
+    border: 3px groove gray;
+    border-collapse: collapse;
+    background-color: #fdfdfd;
+    padding: 3px;
+}
+td.time {
+    background-color: orange;
+    text-align: center;
+}
+td.weekday {
+    width: 20%;
+    background-color: yellow;
+    text-align: center;
+}
+td.firstcol {
+    text-align: center;
+}
